@@ -1,5 +1,4 @@
-import './App.css';
-import ToggleButton from './components/DarkMode';
+import ToggleButton from './DarkMode';
 
 function App() {
   return (
